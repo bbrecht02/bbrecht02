@@ -1,4 +1,5 @@
-### Hi, I'm Benny :D <img align="center" src="https://media.giphy.com/media/qGVxkRAULoPqU/giphy.gif" width="20" height="20">
+### Hi, I'm Benny :D 
+<img align="center" src="https://media.giphy.com/media/qGVxkRAULoPqU/giphy.gif" width="50" height="50">
 {He/Him}
 
 ### About me
