@@ -2,7 +2,12 @@
 {He/Him}
 
 ### About me
-I'm a Computer Science Student 
+I'm a Computer Science Student
+
+<a href="https://github.com/bbrecht02">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bbrecht02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bbrecht02&layout=compact&langs_count=8&theme=dracula"/>
+<div>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bbrecht02)](https://github.com/bbrecht02)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bennyson-brecht/)](https://www.linkedin.com/in/bennyson-brecht/)
