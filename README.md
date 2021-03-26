@@ -10,5 +10,6 @@ I'm a Computer Science Student
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bbrecht02&layout=compact&langs_count=8&theme=dracula"/>
 <div>
 
+## Contact
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bbrecht02)](https://github.com/bbrecht02)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bennyson-brecht/)](https://www.linkedin.com/in/bennyson-brecht/)
