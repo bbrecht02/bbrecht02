@@ -3,7 +3,7 @@
 {He/Him}
 
 ### About me
-I'm a Computer Science Student
+I'm a Computer Science undergraduade and a testing enthusiast
 
 <a href="https://github.com/bbrecht02">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bbrecht02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
