@@ -12,3 +12,7 @@ I'm a Computer Science undergraduade and a testing enthusiast
 
 ## Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bennyson-brecht/)](https://www.linkedin.com/in/bennyson-brecht/)
+  
+  ![Snake animation](https://github.com/bbrecht02/bbrecht02/blob/output/github-contribution-grid-snake.svg)
+
+</div>
