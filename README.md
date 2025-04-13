@@ -6,11 +6,11 @@
 </div>
 
 ### About me
-{He/Him}
+{She/Her} 🏳️‍⚧️
 I'm a Computer Science undergraduade and a QA software Engineer
 <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" height="100">
 
 ## Contact
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bennyson-brecht/)](https://www.linkedin.com/in/bennyson-brecht/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bgcorreia/)](https://www.linkedin.com/in/bgcorreia/)
   
   ![Snake animation](https://github.com/bbrecht02/bbrecht02/blob/output/github-contribution-grid-snake.svg)
