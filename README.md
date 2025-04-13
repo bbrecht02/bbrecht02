@@ -1,4 +1,4 @@
-### printf("Hi, I'm Benny :D")  
+### printf("Hello, I'm Brunna <3")  
 <div>
 <a href="https://github.com/bbrecht02">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bbrecht02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -7,7 +7,7 @@
 
 ### About me
 {He/Him}
-I'm a Computer Science undergraduade and a testing enthusiast
+I'm a Computer Science undergraduade and a QA software Engineer
 <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" height="100">
 
 ## Contact
