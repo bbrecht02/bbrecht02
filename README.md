@@ -7,7 +7,7 @@
 
 ### About me
 {She/Her} 🏳️‍⚧️
-I'm a Computer Science undergraduade and a QA software Engineer
+I'm a Computer Scientist and a QA software Engineer
 <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" height="100">
 
 ## Contact
